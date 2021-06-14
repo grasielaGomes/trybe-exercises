@@ -5,5 +5,5 @@ O que eu vou aprender na Trybe:
 - Git
 - JavaScript
 - NodeJS
-HTML
-CSS
+- HTML
+- CSS
